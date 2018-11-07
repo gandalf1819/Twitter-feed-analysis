@@ -1,0 +1,2 @@
+flume-ng agent --conf-file twitterStreamAPI.conf --name TwitterAgent
+--conf $FLUME_HOME/conf -Dflume.root.logger=INFO,console
