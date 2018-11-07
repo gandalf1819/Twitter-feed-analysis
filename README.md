@@ -5,7 +5,9 @@ Social media has gained immense popularity with marketing teams, and Twitter is 
 To understand whom we should target, let’s take a step back and try to understand the mechanics of Twitter. A user – let’s call him Joe – follows a set of people, and has a set of followers. When Joe sends an update out, that update is seen by all of his followers. Joe can also retweet other users’ updates. A retweet is a repost of an update, much like you might forward an email. If Joe sees a tweet from Sue, and retweets it, all of Joe’s followers see Sue’s tweet, even if they don’t follow Sue. Through retweets, messages can get passed much further than just the followers of the person who sent the original tweet. Knowing that, we can try to engage users whose updates tend to generate lots of retweets. Since Twitter tracks retweet counts for all tweets, we can find the users we’re looking for by analyzing Twitter data.
 
 # System Flow
-![alt-text](http://blog.cloudera.com/blog/2012/09/analyzing-twitter-data-with-hadoop/)
+![alt-text](http://blog.cloudera.com//wp-content/uploads/2012/09/twitter.png)
+
+
 
 # Gathering Data with Apache Flume
 
